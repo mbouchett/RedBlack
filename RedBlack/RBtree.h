@@ -2,7 +2,7 @@
  * File:   RBtree.h
  * Author: mark
  *
- * Created on July 29, 2017, 2:37 PM
+ * Adapted from: http://www.coders-hub.com/2015/07/red-black-tree-rb-tree-using-c.html#.WXzUvieQxpg
  */
 
 #ifndef RBTREE_H
